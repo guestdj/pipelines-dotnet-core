@@ -39,5 +39,5 @@ steps:
     ConnectionType: 'AzureRM'
     azureSubscription: 'LQ_Development'
     appType: 'webApp'
-    WebAppName: 
+    WebAppName: 'app-baimloader-dev-uks-01'
     packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
